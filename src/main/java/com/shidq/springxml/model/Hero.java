@@ -1,6 +1,5 @@
-package com.shidq.springbootdemo.model;
+package com.shidq.springxml.model;
 
-import org.springframework.context.annotation.Bean;
 import org.springframework.stereotype.Component;
 
 @Component

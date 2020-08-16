@@ -1,4 +1,4 @@
-package com.shidq.springbootdemo.schema;
+package com.shidq.springxml.schema;
 
 import org.springframework.beans.factory.config.BeanDefinition;
 import org.springframework.beans.factory.support.BeanDefinitionRegistry;

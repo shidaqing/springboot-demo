@@ -1,6 +1,6 @@
-package com.shidq.springbootdemo.schema;
+package com.shidq.springxml.schema;
 
-import com.shidq.springbootdemo.model.Hero;
+import com.shidq.springxml.model.Hero;
 import org.springframework.beans.factory.xml.NamespaceHandlerSupport;
 
 public class HeroNamespaceHandler extends NamespaceHandlerSupport {

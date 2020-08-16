@@ -1,8 +1,7 @@
 package com.shidq.springbootdemo.control;
 
-import com.shidq.springbootdemo.model.Hero;
-import com.shidq.springbootdemo.utils.SpringUtil;
-import org.springframework.beans.factory.annotation.Autowired;
+import com.shidq.springxml.model.Hero;
+import com.shidq.util.SpringUtil;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 

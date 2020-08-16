@@ -1,4 +1,4 @@
-import com.shidq.springbootdemo.model.Hero;
+import com.shidq.springxml.model.Hero;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 

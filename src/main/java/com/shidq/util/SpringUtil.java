@@ -1,4 +1,4 @@
-package com.shidq.springbootdemo.utils;
+package com.shidq.util;
 
 import org.springframework.beans.BeansException;
 import org.springframework.context.ApplicationContext;

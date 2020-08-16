@@ -1,2 +1,2 @@
-http\://www.shidq.com/schema=com.shidq.springbootdemo.schema.HeroNamespaceHandler
+http\://www.shidq.com/schema=com.shidq.springxml.schema.HeroNamespaceHandler
 
