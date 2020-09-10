@@ -5,7 +5,9 @@ import org.springframework.context.ApplicationContext;
 import org.springframework.context.ApplicationContextAware;
 import org.springframework.stereotype.Component;
 
-
+/**
+ *
+ */
 @Component
 public class SpringUtil implements ApplicationContextAware {
 
@@ -34,6 +36,11 @@ public class SpringUtil implements ApplicationContextAware {
         return applicationContext;
     }
 
+    /**
+     *
+      * @param name
+     * @return
+     */
     //通过name获取 Bean.
     public static Object getBean(String name){
         return getApplicationContext().getBean(name);
